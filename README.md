@@ -31,6 +31,10 @@ Comparatively our refactored script ran 2017 at .1640625 seconds and .1640625 se
 <img width="255" alt="Refactored - 2017" src="https://user-images.githubusercontent.com/691355/124396029-2f45d480-dcbc-11eb-8a27-d5deeda594c6.png">
 <img width="256" alt="Refactored - 2018" src="https://user-images.githubusercontent.com/691355/124396031-30770180-dcbc-11eb-961f-8d66b91f5a00.png">
 
+We can see that running the script in the refactored version gives us faster results.  To achieve this we modified our original code and added the following to our macro.
+
+![Refactored Code](https://user-images.githubusercontent.com/691355/124396129-ada27680-dcbc-11eb-9d0e-1e23109fb884.png)
+![Refactored Code 2](https://user-images.githubusercontent.com/691355/124396152-c9a61800-dcbc-11eb-8621-f5c86a14ca36.png)
 
 
 Summary: In a summary statement, address the following questions.
