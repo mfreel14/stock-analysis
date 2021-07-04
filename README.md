@@ -38,14 +38,12 @@ To achieve this, we modified our original code and added the following to our sc
 ![Refactored Code](https://user-images.githubusercontent.com/691355/124396129-ada27680-dcbc-11eb-9d0e-1e23109fb884.png)
 ![Refactored Code 2](https://user-images.githubusercontent.com/691355/124396152-c9a61800-dcbc-11eb-8621-f5c86a14ca36.png)
 
-
 What are the advantages or disadvantages of refactoring code?
 
-From this project we can visually see the benefit to running refactored macro.  The added code made our macro faster with a reduction in execution time of .6015625 seconds for 2017 and .609375 for 2018.  The code, with added notes is also easier to understand and can make future updates easier.  
+From this project we can visually see the benefit to running refactored code.  The added code made our macro faster with a reduction in execution time of .6015625 seconds for 2017 and .609375 for 2018.  The code, with added notes is also easier to understand and can make future updates easier.  
 
-THe disadvantage of refactoring is the amount of time it takes to repurpose the code to run faster.  Since the code may be someone else's work there can be situations where it would be easier and less time consuming to start the project from scratch.  
-
+The disadvantage of refactoring is the amount of time it takes to repurpose the code to run faster.  Since the code may be someone else's work there can be situations where it would be easier and less time consuming to start the project from scratch.  
 
 How do these pros and cons apply to refactoring the original VBA script?
 
-For this project we were able to see an immediate benefit from the faster run time of our macro.  However, the amount of time spent to add the code may be looked at as a disadventage.  Although we were able to produce faster run times, the amount of time we save may not be worth the amount of time spent.  If Steve were paying us to refactor this code our time spent may not be worth the amount of time saved.  The situation may be different if the original macro ran for 10 mins and we were able to reduce that to 1 min.  The reduction in time for this is far greater than the .6015625 seconds we're saving between our original and refactored code. 
+For this project we were able to see an immediate benefit from the faster run time of our macro.  However, the amount of time spent to add the code may be looked at as a disadvantage.  Although we were able to produce faster run times, the amount of time we save may not be worth the amount of time spent.  If Steve were paying us to refactor this code our time spent may not be worth the amount of time saved.  The situation may be different if the original macro ran for 10 mins, and we were able to reduce that to 1 min.  The reduction in time for this is far greater than the .6015625 seconds we're saving between our original and refactored code.
