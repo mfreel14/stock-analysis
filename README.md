@@ -19,6 +19,19 @@ Comparatively for 2018, 16% of stocks had a positive return.  The high performin
 
 ![2018 Performance](https://user-images.githubusercontent.com/691355/124395902-9c0c9f00-dcbb-11eb-9caa-4c861968abfc.png)
 
+For this project a comparison was made between our original script and a refactored script.  
+
+THe runtime of our original script was .765625 seconds for 2017 and .7734375 seconds for 2018.
+
+<img width="252" alt="Analysis - 2017" src="https://user-images.githubusercontent.com/691355/124395992-01609000-dcbc-11eb-8945-b41bd141636e.png">
+<img width="248" alt="Analysis - 2018" src="https://user-images.githubusercontent.com/691355/124395995-032a5380-dcbc-11eb-8887-3b7739f3482f.png">
+
+Comparatively our refactored script ran 2017 at .1640625 seconds and .1640625 seconds for 2018.
+
+<img width="255" alt="Refactored - 2017" src="https://user-images.githubusercontent.com/691355/124396029-2f45d480-dcbc-11eb-8a27-d5deeda594c6.png">
+<img width="256" alt="Refactored - 2018" src="https://user-images.githubusercontent.com/691355/124396031-30770180-dcbc-11eb-961f-8d66b91f5a00.png">
+
+
 
 Summary: In a summary statement, address the following questions.
 What are the advantages or disadvantages of refactoring code?
